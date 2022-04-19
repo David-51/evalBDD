@@ -31,13 +31,13 @@ GRANT
 \! echo "\033[33m*** Create user 'administrator' with role administrator ***\033[m";
 Create USER IF NOT EXISTS
     administrator@'%'    
-    IDENTIFIED BY '*adm$ze@y$'
+    IDENTIFIED BY '$tgr$peq'
     DEFAULT ROLE administrator;
 
 \! echo "\033[33m*** Create user 'production' with role production  ***\033[m";
 Create USER IF NOT EXISTS
     user@'%'    
-    IDENTIFIED BY '*prod$sfg@df$'
+    IDENTIFIED BY '$>cm$eprpe'
     DEFAULT ROLE production;
 
 \! echo "\033[33m*** Create Table 'cinemas'  ***\033[m";
