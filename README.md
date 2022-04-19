@@ -1,5 +1,4 @@
-# Evaluation d'Entrainement
-# Créer et administrer une base de donnée
+# Evaluation d'Entrainement - créer et administrer une base de donnée
 
 ## Date
 Réalisé du 18/04/2022 au 19/04/2022 dans le cadre de la formation en ligne Studi
@@ -13,6 +12,7 @@ Réalisé du 18/04/2022 au 19/04/2022 dans le cadre de la formation en ligne Stu
 
 
 ## Comment ajouter la base de donnée
+- cloner le repository
 - Se connecter à votre BDD MySql
 - Se placer dans le répertoire EvalBDD
 - taper ```source demo.sql``` pour créer la BDD et toutes les données de démo.
